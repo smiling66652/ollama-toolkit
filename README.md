@@ -1,4 +1,9 @@
-# 🦙 ollama-toolkit
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner.svg" alt="ollama-toolkit — GGUF 转换与本地 / 云端混合 AI 调用" width="100%">
+  </picture>
+</p>
 
 > Ollama 工具集 — GGUF 模型转换 + 本地/云端混合 AI 调用脚本
 
